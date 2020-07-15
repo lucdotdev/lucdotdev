@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Flutter
-- 📫 How to reach me:  [Twitter - @lucdotdev](https://twitter.com/luco_tuto)
+- 📫 How to reach me:  [Twitter - @lucdotdev](https://twitter.com/lucdotdev)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Music lover 🎸
 
