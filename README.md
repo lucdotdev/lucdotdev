@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Priorite-Sante
-- 🌱 I’m currently learning Flutter, Dart and Java
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with 
+- 🔭 I’m currently working on Priorite-Sante and tukio
+- 🌱 I’m currently learning Flutter, Dart, Java, react ... 
+- 👯 I’m looking to collaborate on hover_ussd
+- 🤔 I’m looking for help with hover_ussd
 - 💬 Ask me about Flutter
 - 📫 How to reach me:  [Twitter - @lucdotdev](https://twitter.com/lucdotdev)
 - 😄 Pronouns: He/His
