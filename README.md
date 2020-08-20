@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Priorite-Sante and tukio
+- 🔭 I’m currently working on Priorite-Sante, tukio and uzabintu
 - 🌱 I’m currently learning Flutter, Dart, Java, react ... 
 - 👯 I’m looking to collaborate on hover_ussd
 - 🤔 I’m looking for help with hover_ussd
