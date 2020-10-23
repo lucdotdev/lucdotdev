@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Priorite-Sante, tukio and uzabintu
-- 🌱 I’m currently learning Flutter, Dart, Java, react ... 
+- 🌱 I’m currently learning c, c++, go, Flutter, Dart, Java, kotlin and AI ... 
 - 👯 I’m looking to collaborate on hover_ussd
 - 🤔 I’m looking for help with hover_ussd
 - 💬 Ask me about Flutter
