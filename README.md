@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Priorite-Sante, tukio and uzabintu
+- 🔭 I’m at home
 - 🌱 I’m currently learning c, c++, go, Flutter, Dart, Java, kotlin and AI ... 
 - 👯 I’m looking to collaborate on hover_ussd
-- 🤔 I’m looking for help with hover_ussd
-- 💬 Ask me about Flutter
-- 📫 How to reach me:  [Twitter - @lucdotdev](https://twitter.com/lucdotdev)
+- 💬 Ask me about Flutter and go
+- 📫 How to reach me:  [Twitter - @lucdotdev](https://twitter.com/lucdotdev) or [email](lucdotdev@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Music lover 🎸, 18 yo 😄
 
