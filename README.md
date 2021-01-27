@@ -8,6 +8,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Music lover 🎸, 18 yo 😄
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucdotdev&&layout=compact&theme=cobalt"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucdotdev&count_private=true&show_icons=true&layout=compact&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucdotdev&layout=compact&theme=cobalt"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucdotdev&theme=radical"/>
