@@ -8,4 +8,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucdotdev&count_private=true&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucdotdev"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucdotdev&&hide=TypeScript"/>
