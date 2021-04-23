@@ -1,7 +1,7 @@
 ## Hello world🌍 
 - 🧑🏾‍💻 Freelance
 - ⚛️ Technology (with knowledge percent)
-    - 💙 [Flutter: 80%](https://fluter.dev)
+    - 💙 [Flutter: 85%](https://fluter.dev)
     - 💚 [Node js: 89%](https://nodejs.com)
     - 📱 [Android Native: 50%](https://android.com)
     - ⚛️ [react js: 45%](https://reactjs.com)
