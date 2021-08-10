@@ -1,16 +1,25 @@
 ## Hello world🌍 
 - 🧑🏾‍💻 dev, geek, 18yo
 - ⚛️ Knowledge
+    Language:
+    - 💙 [dart](https://dart.dev)
+    - ☕ [java]()
+    - 💻 [c++]()
+    - 💛 [JavaScript]()
+    - 💙 [go](https://golang.dev)
+    - 🦞 [rust](https://rust.dev)
+
+    Framework :
     - 💙 [Flutter](https://fluter.dev)
     - 💚 [Node js](https://nodejs.com)
     - 📱 [Android](https://android.com)
     - ⚛️ [react](https://reactjs.com)
+
+    Database:
     - 🔥 [Firebase](https://firebase.com)
     - 📂 [mongodb](https://mongodb.com)
     - 📑 [sql](https://wikipedia.org/sql)
-    - 💙 [go](https://golang.dev)
-    - 🦞 [rust](https://rust.dev)
-    
+    - ♥️ [redis]()
 
 - 📝 Still learning
 - 📫 How to reach me:  [lucdotdev@gmail.com](mailto:lucdotdev@gmail.com)
