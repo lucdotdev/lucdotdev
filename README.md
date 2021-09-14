@@ -1,5 +1,5 @@
 ## Hello world🌍 
-- 🧑🏾‍💻 dev, geek, 18yo
+- 🧑🏾‍💻 dev, geek, 19yo
 - ⚛️ Knowledge
 
     Language:
@@ -22,7 +22,6 @@
     - 📑 [sql](https://wikipedia.org/sql)
     - ♥️ [redis]()
 
-- 📝 Still learning
 - 📫 How to reach me:  [lucdotdev@gmail.com](mailto:lucdotdev@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucdotdev&count_private=true&show_icons=true"/>
