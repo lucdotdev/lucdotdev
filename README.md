@@ -1,5 +1,5 @@
 ## Hello world🌍 
-- 🧑🏾‍💻 dev, geek, 19yo
+- 🧑🏾‍💻 developper
 - ⚛️ Knowledge
 
     Language:
@@ -7,6 +7,9 @@
     - ☕ [java]()
     - 💻 [c++]()
     - 💛 [JavaScript]()
+    
+    Learn:
+    - ⛓ [Solidity]()
     - 💙 [go](https://golang.dev)
     - 🦞 [rust](https://rust.dev)
 
