@@ -1,5 +1,6 @@
 ## Hello world🌍 
-- 🧑🏾‍💻 Senior Mobile developper
+- 🧑🏾‍💻 Software Engineer
+- 👷​ Mining Engineer
 - 📫 How to reach me:  [lucdotdev@gmail.com](mailto:lucdotdev@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucdotdev&count_private=true&show_icons=true"/>
